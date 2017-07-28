@@ -4,6 +4,7 @@ import static org.junit.Assert.*;
 public class StringTestJunit {
 
 //Sachin
+	//Jamthe
 StringExamples strex= new StringExamples();
 @Test
 public void testWordCount(){
